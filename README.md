@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi there 👋
+I'm Nhat Tran Minh, a Manufacturing Engineer in VietNam
 
+I design , trouble shooting, continous improvement for automation SMT Processes.
+I have interests in AI, Web development and Data
 <!--
 **Neal-Tran/Neal-Tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
