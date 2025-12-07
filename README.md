@@ -1,6 +1,6 @@
 👋 Hi there! I’m Tran Minh Nhat
 Manufacturing Engineer | Automation | Continuous Improvement | AI & Web Development Enthusiast
-🔧 I currently work in Manufacturing Engineering in Vietnam, specializing in Mannufacturing, Robotics, SMT, PCB, AI and Data.
+/🔧 I currently work in Manufacturing Engineering in Vietnam, specializing in Mannufacturing, Robotics, SMT, PCB, AI and Data.
 💡 I’m also interested in
       •	Web Development (React, NodeJS)
       •	Industrial data analytics
